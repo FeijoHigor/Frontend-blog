@@ -1,0 +1,19 @@
+.category-posts__container__navigation {
+    padding: .5rem 0;
+    color: #949494;
+}
+
+.category-posts__container__navigation a {
+    color: #31a2b1;
+}
+
+.category-posts__container__navigation a:hover {
+    color: #348a96;
+}
+
+.category-posts__container__posts {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: .8rem 0;
+}

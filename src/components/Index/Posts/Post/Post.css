@@ -1,0 +1,63 @@
+.index-post__container__navigation {
+    padding: .5rem 0;
+    color: #949494;
+}
+
+.index-post__container__navigation a {
+    color: #31a2b1;
+}
+
+.index-post__container__navigation a:hover {
+    color: #348a96;
+}
+
+.index-post__container__post {
+    background-color: #586774e0;
+    border-radius: .3rem;
+    padding: 0;
+    margin-top: 1.1rem;
+}
+
+.index-post__container__post__header {
+    padding: .5rem 1rem;
+    border-radius: .3rem .3rem 0 0;
+    border: .1rem solid rgb(37, 38, 39);
+    border-bottom: 0;
+}
+
+.index-post__container__post__main {
+    padding: .5rem 1rem;
+    padding-top: 0;
+    padding-bottom: 1rem;
+    border-left: .1rem solid rgb(37, 38, 39);
+    border-right: .1rem solid rgb(37, 38, 39);
+}
+
+.index-post__container__post__main p {
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+
+.index-post__container__post__footer {
+    background-color: #434d56d5;
+    padding: .5rem 1rem;
+    border: .1rem solid rgb(37, 38, 39);
+    border-radius: 0 0 .3rem .3rem;
+} 
+
+.index-post__container__post__footer small {
+    display: block;
+    margin: .2rem 0;
+    padding: 0;
+    font-weight: 500;
+}
+
+.index-post__container__post__footer small a {
+    color: #31a2b1;
+}
+
+.index-post__container__post__footer small a:hover {
+    color: #348a96;
+}
